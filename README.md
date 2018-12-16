@@ -17,7 +17,7 @@ If you use portable path may be
 
 > Far Manager\Profile\Macros\scripts\
 
-##   Usage
+##   Usage Quick path macro
 #### By default hot key is ***Alt+F***. Every time you need to copy path into Windows clipboard.
 
 <br>
