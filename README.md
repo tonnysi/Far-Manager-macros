@@ -1,5 +1,5 @@
-# Quick path Far manager macro
-
+# Far manager macros
+1. Quick path
 ## Description
 
 1. **Quick path** macro allows you quick navigate to path in Far Manager using windows clipboard. It is useful then you working with different programs like text editor, ide, windows explorer etc and you needed quick to open folder path in Far Manager.
