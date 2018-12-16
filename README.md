@@ -28,7 +28,7 @@ If you use portable path may be
 <img src="img\quick_path_1.gif" alt="Logo Title Text 1" width="750"/>
 <br>
 
-> *Absolute path from text editor. The cursor manager can becomes on file.*
+> *Absolute path from text editor. File manager cursor will stop on file.*
 
 <br>
 <img src="img\quick_path_2.gif" alt="Logo Title Text 2" width="750"/>
